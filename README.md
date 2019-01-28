@@ -1,1 +1,1 @@
-# trying-behat
+# BDD with behat + PHPUnit
